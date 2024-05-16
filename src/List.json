@@ -1,0 +1,122 @@
+[
+    {
+        "Tarea": "Tarea 1",
+        "Factura": "Factura 001",
+        "Estado": "Completado",
+        "Intentos": 3,
+        "FechaCreado": "2024-05-01T08:00:00",
+        "FechaTerminado": "2024-05-01T09:30:00",
+        "Log": ["Log de la tarea 1"],
+        "Asociacion": "Asociacion 1"
+      },
+      {
+        "Tarea": "Tarea 2",
+        "Factura": "Factura 002",
+        "Estado": "Pendiente",
+        "Intentos": 1,
+        "FechaCreado": "2024-05-02T10:15:00",
+        "FechaTerminado": null,
+        "Log": [],
+        "Asociacion": "Asociacion 2"
+      },
+      {
+        "Tarea": "Tarea 3",
+        "Factura": "Factura 003",
+        "Estado": "En proceso",
+        "Intentos": 2,
+        "FechaCreado": "2024-05-03T12:30:00",
+        "FechaTerminado": null,
+        "Log": ["Log de la tarea 3 - Intento 1"],
+        "Asociacion": "Asociacion 3"
+      },
+      {
+        "Tarea": "Tarea 4",
+        "Factura": "Factura 004",
+        "Estado": "Completado",
+        "Intentos": 1,
+        "FechaCreado": "2024-05-04T14:45:00",
+        "FechaTerminado": "2024-05-04T15:30:00",
+        "Log": ["Log de la tarea 4"],
+        "Asociacion": "Asociacion 4"
+      },
+      {
+        "Tarea": "Tarea 5",
+        "Factura": "Factura 005",
+        "Estado": "Pendiente",
+        "Intentos": 2,
+        "FechaCreado": "2024-05-05T16:00:00",
+        "FechaTerminado": null,
+        "Log": [],
+        "Asociacion": "Asociacion 5"
+      },
+      {
+        "Tarea": "Tarea 6",
+        "Factura": "Factura 006",
+        "Estado": "En proceso",
+        "Intentos": 3,
+        "FechaCreado": "2024-05-06T09:30:00",
+        "FechaTerminado": null,
+        "Log": ["Log de la tarea 6 - Intento 1", "Log de la tarea 6 - Intento 2"],
+        "Asociacion": "Asociacion 6"
+      },
+      {
+        "Tarea": "Tarea 7",
+        "Factura": "Factura 007",
+        "Estado": "Completado",
+        "Intentos": 1,
+        "FechaCreado": "2024-05-07T11:00:00",
+        "FechaTerminado": "2024-05-07T12:15:00",
+        "Log": ["Log de la tarea 7"],
+        "Asociacion": "Asociacion 7"
+      },
+      {
+        "Tarea": "Tarea 8",
+        "Factura": "Factura 008",
+        "Estado": "Pendiente",
+        "Intentos": 2,
+        "FechaCreado": "2024-05-08T13:45:00",
+        "FechaTerminado": null,
+        "Log": [],
+        "Asociacion": "Asociacion 8"
+      },
+      {
+        "Tarea": "Tarea 9",
+        "Factura": "Factura 009",
+        "Estado": "En proceso",
+        "Intentos": 3,
+        "FechaCreado": "2024-05-09T15:20:00",
+        "FechaTerminado": null,
+        "Log": ["Log de la tarea 9 - Intento 1"],
+        "Asociacion": "Asociacion 9"
+      },
+      {
+        "Tarea": "Tarea 10",
+        "Factura": "Factura 010",
+        "Estado": "Completado",
+        "Intentos": 1,
+        "FechaCreado": "2024-05-10T17:00:00",
+        "FechaTerminado": "2024-05-10T18:30:00",
+        "Log": ["Log de la tarea 10"],
+        "Asociacion": "Asociacion 10"
+      },
+      {
+        "Tarea": "Tarea 11",
+        "Factura": "Factura 011",
+        "Estado": "Pendiente",
+        "Intentos": 2,
+        "FechaCreado": "2024-05-11T08:30:00",
+        "FechaTerminado": null,
+        "Log": [],
+        "Asociacion": "Asociacion 11"
+      },
+      {
+        "Tarea": "Tarea 12",
+        "Factura": "Factura 012",
+        "Estado": "En proceso",
+        "Intentos": 3,
+        "FechaCreado": "2024-05-12T10:45:00",
+        "FechaTerminado": null,
+        "Log": ["Log de la tarea 12 - Intento 1", "Log de la tarea 12 - Intento 2"],
+        "Asociacion": "Asociacion 12"
+      }
+]
